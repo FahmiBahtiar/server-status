@@ -22,19 +22,19 @@
     "url": "https://codemarket.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 753,
-    "timeDay": 753,
-    "timeWeek": 753,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
+    "time": 683,
+    "timeDay": 683,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-07-19": 0
+      "2024-07-19": 5
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://codemarket.blimbing.xyz/api/v1/products",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market-api",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 753,
-    "timeDay": 753,
-    "timeWeek": 753,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "92.91%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "92.91%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "92.91%",
+    "time": 1228,
+    "timeDay": 1228,
+    "timeWeek": 1228,
+    "timeMonth": 1228,
+    "timeYear": 1228,
     "dailyMinutesDown": {
-      "2024-07-19": 0
+      "2024-07-19": 5
     }
   }
 ]
