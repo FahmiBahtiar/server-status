@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.blimbing.xyz
   # baseUrl: /deeper-upptime
-  logoUrl: https://www.deeper.network/logo.png
+  logoUrl: https://png.pngtree.com/png-clipart/20230823/original/pngtree-plane-logo-vector-template-picture-image_8258410.png
   name: Blimbing Service Status
   introTitle: ""
   introMessage: ""
