@@ -9,10 +9,10 @@ sites:
     url: https://codemarket.blimbing.xyz
   - name: Blog Blimbing
     url: https://blog.blimbing.xyz
-  - name : Code Market API
-    url : https://codemarket.blimbing.xyz/api/v1/products
-  - name : Links Bio Profile
-    url : https://me.blimbing.xyz
+  - name: Code Market API
+    url: https://codemarket.blimbing.xyz/api/v1/products
+  - name: Links Bio Profile
+    url: https://me.blimbing.xyz
 
 
 status-website:
