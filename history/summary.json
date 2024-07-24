@@ -78,19 +78,19 @@
     "url": "https://me.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/me.blimbing.xyz.ico",
     "slug": "links-bio-profile",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 88,
-    "timeDay": 88,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "status": "up",
+    "uptime": "80.68%",
+    "uptimeDay": "80.68%",
+    "uptimeWeek": "80.68%",
+    "uptimeMonth": "80.68%",
+    "uptimeYear": "80.68%",
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-07-24": 0
+      "2024-07-24": 9
     }
   }
 ]
