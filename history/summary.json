@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 78,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 146,
+    "timeDay": 70,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 566,
-    "timeDay": 233,
-    "timeWeek": 566,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "time": 597,
+    "timeDay": 587,
+    "timeWeek": 597,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2024-07-19": 5
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 360,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 325,
+    "timeDay": 379,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2030,
-    "timeDay": 1768,
-    "timeWeek": 2030,
-    "timeMonth": 2030,
-    "timeYear": 2030,
+    "time": 2191,
+    "timeDay": 2825,
+    "timeWeek": 2191,
+    "timeMonth": 2191,
+    "timeYear": 2191,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/me.blimbing.xyz.ico",
     "slug": "links-bio-profile",
     "status": "up",
-    "uptime": "80.68%",
-    "uptimeDay": "80.68%",
-    "uptimeWeek": "80.68%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "80.68%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
-    "dailyMinutesDown": {
-      "2024-07-24": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
+    "dailyMinutesDown": {}
   }
 ]
