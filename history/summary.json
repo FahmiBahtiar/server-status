@@ -4,18 +4,20 @@
     "url": "https://blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blimbing.xyz.ico",
     "slug": "blimbing-portofolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 120,
-    "timeWeek": 90,
-    "timeMonth": 136,
-    "timeYear": 136,
-    "dailyMinutesDown": {}
+    "time": 133,
+    "timeDay": 106,
+    "timeWeek": 87,
+    "timeMonth": 133,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "Code Market",
@@ -78,17 +80,19 @@
     "url": "https://me.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/me.blimbing.xyz.ico",
     "slug": "links-bio-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 164,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 117,
+    "timeDay": 144,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   }
 ]
