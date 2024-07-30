@@ -5,22 +5,27 @@ repo: server-status # The name of this repository
 sites:
   - name: Blimbing Portofolio
     url: https://blimbing.xyz
+    __dangerous__insecure: true
     assignees:
       - Fahmi Bahtiar
   - name: Code Market
     url: https://codemarket.blimbing.xyz
+    __dangerous__insecure: true
     assignees:
       - Fahmi Bahtiar
   - name: Blog Blimbing
     url: https://blog.blimbing.xyz
+    __dangerous__insecure: true
     assignees:
       - Fahmi Bahtiar
   - name: Code Market API
     url: https://codemarket.blimbing.xyz/api/v1/products
+    __dangerous__insecure: true
     assignees:
       - Fahmi Bahtiar
   - name: Links Bio Profile
     url: https://me.blimbing.xyz
+    __dangerous__insecure: true
     assignees:
       - Fahmi Bahtiar
 
