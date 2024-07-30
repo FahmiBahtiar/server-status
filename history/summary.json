@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 704,
     "timeDay": 921,
     "timeWeek": 830,
     "timeMonth": 704,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-07-30": 1,
       "2024-07-19": 5
     }
   },
@@ -47,19 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.blimbing.xyz.ico",
     "slug": "blog-blimbing",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 315,
     "timeWeek": 331,
     "timeMonth": 317,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2024-07-30": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Code Market API",
@@ -67,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2686,
     "timeDay": 3538,
     "timeWeek": 3420,
     "timeMonth": 2686,
     "timeYear": 2686,
-    "dailyMinutesDown": {
-      "2024-07-30": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Links Bio Profile",
