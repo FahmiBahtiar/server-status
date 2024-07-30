@@ -5,14 +5,24 @@ repo: server-status # The name of this repository
 sites:
   - name: Blimbing Portofolio
     url: https://blimbing.xyz
+    assignees:
+      - Fahmi Bahtiar
   - name: Code Market
     url: https://codemarket.blimbing.xyz
+    assignees:
+      - Fahmi Bahtiar
   - name: Blog Blimbing
     url: https://blog.blimbing.xyz
+    assignees:
+      - Fahmi Bahtiar
   - name: Code Market API
     url: https://codemarket.blimbing.xyz/api/v1/products
+    assignees:
+      - Fahmi Bahtiar
   - name: Links Bio Profile
     url: https://me.blimbing.xyz
+    assignees:
+      - Fahmi Bahtiar
 
 
 status-website:
