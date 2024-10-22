@@ -25,10 +25,10 @@
     "url": "https://codemarket.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1259,
@@ -37,6 +37,7 @@
     "timeMonth": 1748,
     "timeYear": 1259,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-07-19": 5
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://blog.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blimbing.xyz.ico",
     "slug": "blog-blimbing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +57,18 @@
     "timeWeek": 331,
     "timeMonth": 308,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Code Market API",
     "url": "https://codemarket.blimbing.xyz/api/v1/products",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -75,6 +78,7 @@
     "timeMonth": 5709,
     "timeYear": 4503,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-08-27": 18
     }
   },
